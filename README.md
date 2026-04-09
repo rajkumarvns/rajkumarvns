@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Raj Kumar Gupta<br><br>🎓 B.Tech Computer Science <br>🌱 Currently pursuing the MERN Stack — learning and building projects with MongoDB, Express.js, React, and Node.js<br>💻 Passionate about Web Development & Programming<br><br>🔧 Skills<br>💡 Languages: Java, JavaScript, HTML, CSS<br>⚙️ Tools: Git, GitHub, VS Code<br>🌐 Technologies: MongoDB, Express.js, React, Node.js
+👋 Hi, I'm Raj Kumar Gupta<br><br>🎓 B.Tech Computer Science <br>🌱 Currently pursuing the MERN Stack — learning and building projects with MongoDB, Express.js, React, and Node.js<br>💻 Passionate about Web Development & Programming<br><br>🔧 Skills<br>💡 Languages: Java, JavaScript, HTML, CSS<br>⚙️ Tools: Git, GitHub, Eclipse, VS Code<br>🌐 Technologies: MongoDB, Express.js, React, Node.js
 
 
 ## 🌐 Socials:
