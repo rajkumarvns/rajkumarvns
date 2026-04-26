@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="460" height="460" alt="188419790" src="https://github.com/user-attachments/assets/15638788-949a-456c-b486-bc0be87d8eb8" />
+<img src="https://github.com/user-attachments/assets/15638788-949a-456c-b486-bc0be87d8eb8" 
+     width="180" 
+     style="border-radius: 50%;" />
 
-  <br><br>
+<br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi+I'm+Raj+Kumar+Gupta;MERN+Stack+Developer;DSA+in+Java;Passionate+Programmer;Building+Projects+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi+I'm+Raj+Kumar+Gupta;MERN+Stack+Developer;DSA+in+Java;Passionate+Programmer;Building+Projects+🚀" />
 
 </div>
-
----
 
 # 💫 About Me
 
@@ -18,8 +18,6 @@
 🌱 Currently learning **MERN Stack** (MongoDB, Express.js, React, Node.js)  
 💻 Passionate about **Web Development & Programming**  
 
----
-
 ## 🔧 Skills
 
 💡 **Languages:** Java, JavaScript, HTML, CSS, Python, C/C++  
@@ -27,11 +25,9 @@
 ⚙️ **Tools:** Git, GitHub, Eclipse, VS Code  
 🌐 **Technologies:** MongoDB, Express.js, React, Node.js  
 
----
-
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/raj-kumar-gupta-990093305/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
@@ -42,8 +38,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
 </p>
-
----
 
 ## 💻 Tech Stack
 
@@ -74,19 +68,12 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
----
-
 ## 🔥 My Stats
 
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=rajkumarvns&theme=dark&hide_border=true&border_radius=8" 
-    height="200"
-  />
+  <img src="https://streak-stats.demolab.com?user=rajkumarvns&theme=dark&hide_border=true&border_radius=8" height="200"/>
 </div>
-
----
 
 ## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajkumarvns&theme=github-dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajkumarvns&bg_color=0d1117&color=00c7b7&line=00c7b7&point=ffffff&area=true&hide_border=true" />
