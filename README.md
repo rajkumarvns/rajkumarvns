@@ -1,8 +1,6 @@
 # 💫 About Me:
 
 <div align="center">
-<img src="https://github.com/rajkumarvns/assets/15638788-949a-456c-b486-bc0be87d8eb8" width="180" style="border-radius: 50%;" />
-<br><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi+I'm+Raj+Kumar+Gupta;MERN+Stack+Developer;DSA+in+Java;Passionate+Programmer;Building+Projects+🚀" />
 </div>
 
