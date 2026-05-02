@@ -9,7 +9,7 @@
 🌱 Currently pursuing the **MERN Stack** — learning and building projects with MongoDB, Express.js, React, and Node.js  
 💻 Passionate about **Web Development & Programming**
 
-## 🔧 Skills
+## Skills
 
 💡 Languages: Java, JavaScript, HTML, CSS, Python, C/C++  
 ⚙️ Tools: Git, GitHub, VS Code, Eclipse  
