@@ -53,9 +53,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumarvns&theme=radical&hide_border=true" width="38%"/>
 </div>
 
-
-
-
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajkumarvns&bg_color=0d1117&color=00c7b7&line=00c7b7&point=ffffff&area=true&hide_border=true" width="100%"/>
