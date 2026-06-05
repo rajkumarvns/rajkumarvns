@@ -57,3 +57,9 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajkumarvns&bg_color=0d1117&color=00c7b7&line=00c7b7&point=ffffff&area=true&hide_border=true" width="100%"/>
 
+✨ Fun Fact
+
+"Consistency beats motivation. Code every day, improve every day."
+
+⭐ Thanks for visiting my profile!
+
