@@ -77,6 +77,7 @@
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 
 </div>
 
@@ -94,25 +95,16 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://streak-stats.demolab.com?user=rajkumarvns&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajkumarvns&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&area_color=7C3AED"/>
-
 </div>
-
----
 
 # 📌 Featured Projects
 
-- 🍔 **CravingsFSD08** — Full Stack Food Delivery Application (MERN)
+- 🍔 **[Cravings](https://raj-cravings.netlify.app)** — Full Stack Food Delivery Application (MERN)
+
 - 🤖 **AI Career Intelligence Engine (ACIE)** — AI-powered Career Guidance Platform
+
 - 🌐 Responsive Web Development Projects
+
 - 📚 Data Structures & Algorithms in Java
 
 ---
