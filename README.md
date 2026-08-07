@@ -96,6 +96,35 @@
 </a>
 
 </div>
+---
+
+# 📊 GitHub Streak
+
+<div align="center">
+
+<img
+  width="49%"
+  src="https://streak-stats.demolab.com/?user=rajkumarvns&theme=tokyonight&hide_border=true&border_radius=12"
+  alt="Raj Kumar Gupta GitHub Streak"
+/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rajkumarvns&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true"
+  alt="Raj Kumar Gupta GitHub Activity Graph"
+/>
+
+</div>
+
+---
 
 # 📌 Featured Projects
 
