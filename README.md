@@ -1,5 +1,3 @@
-<img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/cd1759df-77ee-4c4e-892d-1b4df300de70" /><div align="center">
-
 # 👋 Hi, I'm Raj Kumar Gupta
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;DSA+in+Java;Building+Real+World+Projects;Always+Learning+🚀"/>
