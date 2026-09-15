@@ -1,4 +1,4 @@
-<div align="center">
+<img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/cd1759df-77ee-4c4e-892d-1b4df300de70" /><div align="center">
 
 # 👋 Hi, I'm Raj Kumar Gupta
 
@@ -131,6 +131,7 @@
 - 🍔 **[Cravings](https://raj-cravings.netlify.app)** — Full Stack Food Delivery Application (MERN)
 
 - 🤖 **AI Career Intelligence Engine (ACIE)** — AI-powered Career Guidance Platform
+- **[Portfolio](https://portfolio-rajg.vercel.app)** — My Portfolio
 
 - 🌐 Responsive Web Development Projects
 
